@@ -18,3 +18,9 @@ bittensor.pth => Trained model for 25 epochs
 bit_tensor_challenge.ipynb => Jupyter Notebook containing the code to train, test and pruning the neural network
 
 ```
+
+## References
+
+1. https://github.com/pytorch/examples/blob/main/mnist/main.py
+2. https://olegpolivin.medium.com/experiments-in-neural-network-pruning-in-pytorch-c18d5b771d6d
+
